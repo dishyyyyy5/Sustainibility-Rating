@@ -1,0 +1,37 @@
+ {
+   "Carbon_Footprint_MT": 1.75,
+   "Water_Usage_Liters": 4511152.79,
+   "Waste_Production_KG": 97844.11,
+   "Recycling_Programs": "No"
+ }
+
+ {
+   "Carbon_Footprint_MT": 0.9,
+   "Water_Usage_Liters": 800,
+   "Waste_Production_KG": 30,
+   "Recycling_Programs": "Yes"
+ }
+
+
+ {
+   "Carbon_Footprint_MT": 3.5,
+   "Water_Usage_Liters": 1500,
+   "Waste_Production_KG": 80,
+   "Recycling_Programs": "No"
+ }
+
+
+{
+  "Carbon_Footprint_MT": 2.1,
+   "Water_Usage_Liters": 950,
+   "Waste_Production_KG": 50,
+   "Recycling_Programs": "Yes"
+ }
+
+
+{
+  "Carbon_Footprint_MT": 0.5,
+  "Water_Usage_Liters": 600,
+  "Waste_Production_KG": 25,
+  "Recycling_Programs": "Yes"
+}
